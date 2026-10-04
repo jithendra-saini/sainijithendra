@@ -6,11 +6,11 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00C896?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/>
 </a></div>
 
-👨‍💻 About Me
+> About Me
 
 > whoami
 
-Saini Jithendra
+Saini Jithendra,
 Full Stack Developer
 
 Hello! I'm Saini Jithendra, a passionate developer interested in Full Stack Development and Software Development.
@@ -62,7 +62,7 @@ I enjoy creating practical web applications, learning new technologies, solving 
 
 ---
 
-🧰 Skills Overview
+> Skills Overview
 
 Frontend Development : HTML | CSS | JavaScript | React
 
@@ -78,7 +78,7 @@ Version Control      : Git | GitHub
 
 Focus                : Full Stack Development
 
-🚀 Featured Projects
+> Featured Projects
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Full Stack Development
 
 </div>
 
-Full Stack Development
+> Full Stack Development
 
                      ┌──────────────────────┐
                      │        USER          │
@@ -224,7 +224,7 @@ Full Stack Development
                      └──────────────────────────┘
 
 
-Problem Solving
+> Problem Solving
 
 I am continuously improving my problem-solving and programming skills using Java.
 
@@ -256,17 +256,17 @@ public class Developer {
 
 ---
 
-📊 GitHub Statistics
+>  GitHub Statistics
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jithendra-saini&show_icons=true&hide_border=true&bg_color=050505&title_color=00C896&icon_color=00C896&text_color=FFFFFF" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithendra-saini&layout=compact&hide_border=true&bg_color=050505&title_color=00C896&text_color=FFFFFF" height="180"/></div>
 
-🔥 Contribution Streak
+>  Contribution Streak
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=Jithendra-saini&theme=dark&hide_border=true&background=050505&ring=00C896&fire=00C896&currStreakLabel=00C896"/></div>
 
 
 
-🎯 Current Focus
+> Current Focus
 
 Full Stack Development     ████████████████████░░  90%
 
@@ -278,7 +278,7 @@ MySQL                       ████████████████░�
 
 Problem Solving             ███████████████░░░░░░░  65%
 
-Currently Learning
+> Currently Learning
 
 - React Development
 - REST APIs
@@ -289,7 +289,7 @@ Currently Learning
 - Data Structures & Problem Solving
 
 
-💡 Developer Mindset
+> Developer Mindset
 
 <div align="center">"Don't just write code. Build solutions."
 
@@ -297,7 +297,7 @@ Learn → Practice → Build → Debug → Improve → Repeat
 
 </div>
 
-🌱 My Development Journey
+> My Development Journey
 
                          ┌───────────────┐
                          │       C       │
@@ -339,7 +339,7 @@ Learn → Practice → Build → Debug → Improve → Repeat
                     └─────────────────────────┘
 
 
-📫 Connect With Me
+> Connect With Me
 
 <div align="center"><a href="https://github.com/Jithendra-saini">
 <img src="https://img.shields.io/badge/GitHub-Jithendra--saini-00C896?style=for-the-badge&logo=github&logoColor=black"/>
