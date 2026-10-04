@@ -16,19 +16,17 @@ Full Stack Developer
 Hello! I'm Saini Jithendra, a passionate developer interested in Full Stack Development and Software Development.
 
 I enjoy creating practical web applications, learning new technologies, solving programming problems, and turning ideas into working software.
+ What I Do
 
-🚀 What I Do
+- Build responsive web applications
+- Develop modern interfaces using React
+- Create clean UI using HTML & CSS
+- Build interactive applications using JavaScript
+- Practice programming and problem solving using Java
+- Work with MySQL databases
+- Develop projects using VS Code
+- Continuously improve my development skills
 
-- 🌐 Build responsive web applications
-- ⚛️ Develop modern interfaces using React
-- 🎨 Create clean UI using HTML & CSS
-- ⚡ Build interactive applications using JavaScript
-- ☕ Practice programming and problem solving using Java
-- 🗄️ Work with MySQL databases
-- 🔧 Develop projects using VS Code
-- 📚 Continuously improve my development skills
-
----
 
 🧑‍💻 Tech Stack
 
@@ -59,8 +57,8 @@ I enjoy creating practical web applications, learning new technologies, solving 
 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,mysql,jupyter,git,github" />
-</p>VS Code • MySQL Workbench • Jupyter Notebook • Git • GitHub
+<img src="https://skillicons.dev/icons?i=vscode,mysql,jupyter" />
+</p>VS Code • MySQL Workbench • Jupyter Notebook 
 
 ---
 
@@ -260,15 +258,13 @@ public class Developer {
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jithendra-saini&show_icons=true&hide_border=true&bg_color=050505&title_color=00C896&icon_color=00C896&text_color=FFFFFF" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithendra-saini&layout=compact&hide_border=true&bg_color=050505&title_color=00C896&text_color=FFFFFF" height="180"/></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jithendra-saini&show_icons=true&hide_border=true&bg_color=050505&title_color=00C896&icon_color=00C896&text_color=FFFFFF" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithendra-saini&layout=compact&hide_border=true&bg_color=050505&title_color=00C896&text_color=FFFFFF" height="180"/></div>
 
 🔥 Contribution Streak
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=Jithendra-saini&theme=dark&hide_border=true&background=050505&ring=00C896&fire=00C896&currStreakLabel=00C896"/></div>---
+<div align="center"><img src="https://streak-stats.demolab.com?user=Jithendra-saini&theme=dark&hide_border=true&background=050505&ring=00C896&fire=00C896&currStreakLabel=00C896"/></div>
 
-📈 Contribution Graph
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jithendra-saini&bg_color=050505&color=FFFFFF&line=00C896&point=FFFFFF&area=true&hide_border=true" width="95%"/></div>---
 
 🎯 Current Focus
 
@@ -284,15 +280,14 @@ Problem Solving             ███████████████░░�
 
 Currently Learning
 
-- ⚛️ React Development
-- 🔗 REST APIs
-- ☕ Java Backend Development
-- 🗄️ MySQL Database Management
-- 🔐 Authentication & Authorization
-- 🚀 Full Stack Application Development
-- 🧩 Data Structures & Problem Solving
+- React Development
+- REST APIs
+- Java Backend Development
+- MySQL Database Management
+- Authentication & Authorization
+- Full Stack Application Development
+- Data Structures & Problem Solving
 
----
 
 💡 Developer Mindset
 
@@ -300,7 +295,7 @@ Currently Learning
 
 Learn → Practice → Build → Debug → Improve → Repeat
 
-</div>---
+</div>
 
 🌱 My Development Journey
 
@@ -343,7 +338,6 @@ Learn → Practice → Build → Debug → Improve → Repeat
                     │   FULL STACK DEVELOPER   │
                     └─────────────────────────┘
 
----
 
 📫 Connect With Me
 
