@@ -82,113 +82,127 @@ Focus                : Full Stack Development
 
 🚀 Featured Projects
 
-<div align="center"><table>
-<tr><td width="50%" valign="top"><h3 align="center">🎓 Online Course Registration Portal</h3><p align="center"><b>Full Stack Web Application</b><br>
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 Online Course Registration Portal</h3>
+
+<p align="center">
+<b>Full Stack Web Application</b>
+</p>
+
 - Students needed a simple platform to browse available courses and manage course registrations.<br>
 - Developed a full-stack portal for student registration, course management and enrollment.<br>
 - Built the frontend using React and connected it with Java/Spring Boot REST APIs and MySQL database.<br>
-- Created a functional course registration system with course browsing, seat availability and duplicate enrollment prevention.<br>
-> <b>Technologies: React, Java, Spring Boot, MySQL </b>
+- Created a functional course registration system with course browsing, seat availability and duplicate enrollment prevention.
 
+<p align="center">
+<b>Technologies: </b><br>
 React, Java, Spring Boot, MySQL
+</p>
 
-<br><br>
-
+<p align="center">
 <a href="https://github.com/Jithendra-saini/Online-Course-Registration-Portal">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00C896?style=for-the-badge&logo=github&logoColor=black"/>
-</a></p></td><td width="50%" valign="top"><h3 align="center">🛒 Grocery Expense Tracker</h3><p align="center"><b>Frontend Web Application</b>
+</a>
+</p>
 
-<br><br>
+</td>
 
-🔹 <b>Situation:</b> Managing grocery expenses manually can make it difficult to track individual purchases and total spending.
+<td width="50%" valign="top">
 
-<br><br>
+<h3 align="center">🛒 Grocery Expense Tracker</h3>
 
-🔹 <b>Task:</b> Developed a simple web application to record, manage and monitor grocery expenses.
+<p align="center">
+<b>Frontend Web Application</b>
+</p>
 
-<br><br>
+- Managing grocery expenses manually can make it difficult to track individual purchases and total spending.<br>
+- Developed a simple web application to record, manage and monitor grocery expenses.<br>
+- Used HTML, CSS and JavaScript to create an interactive interface with dynamic expense calculations and record management.<br>
+- Built a user-friendly expense tracker that allows users to organize grocery purchases and monitor their spending.
 
-🔹 <b>Action:</b> Used HTML, CSS and JavaScript to create an interactive interface with dynamic expense calculations and record management.
+<p align="center">
+<b>Technologies: </b><br>
+HTML, CSS, JavaScript, Firebase
+</p>
 
-<br><br>
-
-🔹 <b>Result:</b> Built a user-friendly expense tracker that allows users to organize grocery purchases and monitor their spending.
-
-<br><br>
-
-<b>Technologies</b>
-
-<br>HTML • CSS • JavaScript
-
-<br><br>
-
+<p align="center">
 <a href="https://github.com/Jithendra-saini/Grocery-Expense-Tracker">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00C896?style=for-the-badge&logo=github&logoColor=black"/>
-</a></p></td></tr><tr><td width="50%" valign="top"><h3 align="center">📄 Resume Builder</h3><p align="center"><b>Frontend Web Application</b>
+</a>
+</p>
 
-<br><br>
+</td>
 
-🔹 <b>Situation:</b> Creating and updating resumes manually can be time-consuming and difficult to organize.
+</tr>
 
-<br><br>
+<tr>
 
-🔹 <b>Task:</b> Developed a web-based resume builder to help users create structured professional resumes.
+<td width="50%" valign="top">
 
-<br><br>
+<h3 align="center">📄 Resume Builder</h3>
 
-🔹 <b>Action:</b> Implemented dynamic resume sections using HTML, CSS and JavaScript with editable content and interactive controls.
+<p align="center">
+<b>Frontend Web Application</b>
+</p>
 
-<br><br>
+- Creating and updating resumes manually can be time-consuming and difficult to organize.<br>
+- Developed a web-based resume builder to help users create structured professional resumes.<br>
+- Implemented dynamic resume sections using HTML, CSS and JavaScript with editable content and interactive controls.<br>
+- Created an easy-to-use resume builder that allows users to organize education, projects, skills and other details in one place.
 
-🔹 <b>Result:</b> Created an easy-to-use resume builder that allows users to organize education, projects, skills and other details in one place.
+<p align="center">
+<b>Technologies: </b><br>
+HTML, CSS, JavaScript
+</p>
 
-<br><br>
-
-<b>Technologies</b>
-
-<br>HTML • CSS • JavaScript
-
-<br><br>
-
+<p align="center">
 <a href="https://github.com/Jithendra-saini/Resume-Builder">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-00C896?style=for-the-badge&logo=github&logoColor=black"/>
-</a></p></td><td width="50%" valign="top"><h3 align="center">💡 Development Journey</h3><p align="center"><b>Currently Building & Learning</b>
+</a>
+</p>
 
-<br><br>
+</td>
 
-🔹 <b>Situation:</b> Modern software development requires continuous learning and practical implementation.
+<td width="50%" valign="top">
 
-<br><br>
+<h3 align="center">💡 Development Journey</h3>
 
-🔹 <b>Task:</b> Strengthen my full-stack development and programming skills through hands-on projects.
+<p align="center">
+<b>Currently Building & Learning</b>
+</p>
+- Learning Data Analytics skills like Excel, SQL and Python.<br>
+- Strengthen my full-stack development and programming skills through hands-on projects.<br>
+- Practicing React, Java, MySQL, JavaScript and problem solving while building real-world applications.<br>
+- Progressing toward becoming a skilled Full Stack Developer with practical project experience.<br><br>
 
-<br><br>
+<p align="center">
+<b>Technologies & Learning: </b><br>
+React &nbsp; • &nbsp;
+Java &nbsp; • &nbsp;
+MySQL &nbsp; • &nbsp;
+Full Stack Development
+</p>
 
-🔹 <b>Action:</b> Practicing React, Java, MySQL, JavaScript and problem solving while building real-world applications.
+</td>
 
-<br><br>
+</tr>
+</table>
 
-🔹 <b>Result:</b> Progressing toward becoming a skilled Full Stack Developer with practical project experience.
+</div>
 
-<br><br>
+Full Stack Development
 
-⚛️ React<br>
-☕ Java<br>
-🗄️ MySQL<br>
-🌐 Full Stack Development
-
-</p></td></tr>
-</table></div>
-</p></td></tr>
-</table></div>---
-
-🏗️ Full Stack Development
-
-                         ┌──────────────────────┐
-                         │       USER           │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
+                     ┌──────────────────────┐
+                     │        USER          │
+                     └──────────┬───────────┘
+                                │
+                                ▼
                      ┌──────────────────────────┐
                      │        FRONTEND          │
                      │                          │
@@ -211,9 +225,8 @@ React, Java, Spring Boot, MySQL
                      │          MySQL           │
                      └──────────────────────────┘
 
----
 
-🧠 Problem Solving
+Problem Solving
 
 I am continuously improving my problem-solving and programming skills using Java.
 
