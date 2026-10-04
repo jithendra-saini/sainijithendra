@@ -2,9 +2,9 @@
 
 <a href="https://github.com/Jithendra-saini">
 <img src="https://img.shields.io/badge/GitHub-Jithendra--saini-00C896?style=for-the-badge&logo=github&logoColor=white&labelColor=050505"/>
-</a><a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/in/jithendra-saini-b0995a2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00C896?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505"/>
-</a></div>---
+</a></div>
 
 👨‍💻 About Me
 
@@ -343,7 +343,7 @@ Learn → Practice → Build → Debug → Improve → Repeat
 
 <div align="center"><a href="https://github.com/Jithendra-saini">
 <img src="https://img.shields.io/badge/GitHub-Jithendra--saini-00C896?style=for-the-badge&logo=github&logoColor=black"/>
-</a><a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/in/jithendra-saini-b0995a2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00C896?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a></div><br><div align="center">⚡ Code • Build • Learn • Repeat
 
